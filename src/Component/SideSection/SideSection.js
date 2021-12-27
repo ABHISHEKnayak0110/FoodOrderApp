@@ -1,5 +1,5 @@
 import React ,{useState}from 'react'
-import { Item } from '../ItemList/Item'
+
 
 
 export default function SideSection({filterItem}) {
